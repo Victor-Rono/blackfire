@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/Victor-Rono/blackfire/issues"
   },
-  "homepage": "https://github.com/Victor-Rono/blackfire#readme"
+  "homepage": "https://github.com/Victor-Rono/blackfire#readme",
+  "dependencies": {
+    "nodemon": "^2.0.15"
+  }
 }
